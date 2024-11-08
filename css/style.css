@@ -309,7 +309,7 @@ button {
 
 .booking_ocline {
   position: absolute;
-  width: 100%;
+  width: 60%;
   top: 0;
   transform: translateY(1%);
 }
