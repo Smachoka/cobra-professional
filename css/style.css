@@ -351,15 +351,6 @@ button {
   position: relative;
 }
 
-.date_cua {
-  position: absolute;
-  width: 29px;
-  height: 29px;
-  top: 48px;
-  background-repeat: no-repeat;
-  right: 30px;
-}
-
 .book_btn {
   background-color: #fe0000;
   max-width: 189px;
@@ -373,8 +364,7 @@ button {
   display: block;
 }
 
-.book_btn:hover {
-  background-color: #fff;
+.nav_list a:hover {
   color: #fe0000;
   transition: ease-in 0.5s;
 }
