@@ -292,7 +292,7 @@ p {
   .footer {
     flex-direction: column;
     padding: 5vw 2vw;
-    max-width: 60vw; /* Prevent overflow */
+    max-width: 60vw;
   }
 
   .footer-column h3 {
