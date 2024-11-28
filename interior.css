@@ -11,7 +11,7 @@
 
 body {
   font-family: Poppins, sans-serif;
-  background: url("images/sls-exterior12.jpg") no-repeat center center fixed;
+  background: url("images/banner3.jpg") no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   overflow-x: hidden;
@@ -96,7 +96,7 @@ p {
 
 .nav-links li {
   padding: 5px 0;
-
+  text-transform: uppercase;
   font-weight: 500;
   font-size: 30px;
   line-height: 30px;
