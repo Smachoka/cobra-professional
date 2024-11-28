@@ -29,6 +29,8 @@
 
 * {
   box-sizing: border-box !important;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -285,7 +287,7 @@ button {
 
 .header {
   width: 100%;
-  height: 86px;
+  height: 50px;
   padding: 15px 0px 15px 0px;
   background: #fff;
 }
@@ -376,7 +378,7 @@ button {
 
 .carousel-indicators {
   right: inherit;
-  bottom: 53px;
+  bottom: 100px;
   margin-left: 9%;
 }
 
@@ -941,4 +943,13 @@ ul.social_icon li a:hover {
 
 .nav_list a:hover {
   text-decoration: underline;
+}
+@media (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .carousel-item img {
+    max-width: 100%;
+  }
 }
