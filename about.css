@@ -232,7 +232,7 @@ p {
 
 .footer-column p {
   margin: 5px 0;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .footer-column .contacts p {
@@ -279,6 +279,7 @@ p {
   .product-image img {
     width: 50vw;
     max-width: 100%; /* Prevent overflow */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
   .product-content h2 {
