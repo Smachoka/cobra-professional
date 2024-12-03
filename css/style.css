@@ -298,7 +298,7 @@ button {
   }
 
   .banner_main {
-    background-image: url("/images/Conceptual\ art\ -\ red\ Porsche\ 911.jpeg"); /* Static image for mobile */
+    background-image: url("/images/car.png"); /* Static image for mobile */
     /* Adjust height to fit content */
   }
 }
