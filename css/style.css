@@ -291,17 +291,6 @@ button {
   height: 100vh;
 }
 
-/* Mobile-specific styles */
-@media (max-width: 768px) {
-  #myCarousel {
-    display: none; /* Hide the carousel on small screens */
-  }
-
-  .banner_main {
-    background-image: url("/images/car.png"); /* Static image for mobile */
-    /* Adjust height to fit content */
-  }
-}
 .banner .carousel-indicators li {
   width: 20px;
   height: 20px;
